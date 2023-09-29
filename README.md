@@ -20,6 +20,8 @@ localhost:8082/ets/api/file/{id}
 
 -- For Delete operation(DELETE)
 localhost:8082/ets/api/file/{id}
+![image](https://github.com/IlterisArslan/etstur/assets/122876232/d796d063-d07a-46d2-9bfe-54c510992477)
+
 
 -- After the application is up and running, you can see the Swagger documentation from the link below.
 http://localhost:8082/swagger-ui/index.html/ets-file-controller
