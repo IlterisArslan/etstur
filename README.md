@@ -1,8 +1,11 @@
 #ETSTUR Spring Boot file CRUD operation REST API with JWT Token
 
+-- First you need to create JWT Token and then use it in the file operations apis.
+![image](https://github.com/IlterisArslan/etstur/assets/122876232/0739b628-11bc-4781-bd4f-b4baba4d7f63)
 
 -- For Create operation (POST)
 localhost:8082/ets/api/file
+
 -- For Read operation(GET)
 localhost:8082/ets/api/file/{id}
 localhost:8082/ets/api/files
