@@ -32,5 +32,6 @@ http://localhost:8082/swagger-ui/index.html/ets-file-controller
 http://localhost:8082/h2-console
 ![image](https://github.com/IlterisArslan/etstur/assets/122876232/f729a9ef-ac55-4785-9ccd-d40f73c74d81)
 
-https://github.com/IlterisArslan/etstur/blob/0749d5d18da5cb52414370017f4dd023fe6b8e52/ets-case-study/ets-case-study/Information/ETS.postman_collection.json
+
+POSTMAN COLLECTION: https://github.com/IlterisArslan/etstur/blob/0749d5d18da5cb52414370017f4dd023fe6b8e52/ets-case-study/ets-case-study/Information/ETS.postman_collection.json
 
