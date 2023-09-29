@@ -13,6 +13,8 @@ localhost:8082/ets/api/file/{id}
 
 -- After the application is up and running, you can see the Swagger documentation from the link below.
 http://localhost:8082/swagger-ui/index.html/ets-file-controller
+![image](https://github.com/IlterisArslan/etstur/assets/122876232/4d0b8e89-626b-4ebd-8cd7-7bcad66d280c)
+
 
 -- After the application is up and running, you can see the DB records from the link below.
 http://localhost:8082/h2-console
