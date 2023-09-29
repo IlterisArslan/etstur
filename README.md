@@ -5,6 +5,7 @@
 
 -- For Create operation (POST)
 localhost:8082/ets/api/file
+![image](https://github.com/IlterisArslan/etstur/assets/122876232/f6cd2e95-10c6-4fd8-b7d5-b84a1fed9fab)
 
 -- For Read operation(GET)
 localhost:8082/ets/api/file/{id}
