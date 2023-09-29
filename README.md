@@ -9,9 +9,15 @@ localhost:8082/ets/api/file
 
 -- For Read operation(GET)
 localhost:8082/ets/api/file/{id}
+![image](https://github.com/IlterisArslan/etstur/assets/122876232/8a710cf7-0a99-4785-89bf-cad409c836db)
+
 localhost:8082/ets/api/files
+![image](https://github.com/IlterisArslan/etstur/assets/122876232/6f95a290-f21f-457d-bedd-6ca350456bf1)
+
 -- For Update operation(PUT)
 localhost:8082/ets/api/file/{id}
+![image](https://github.com/IlterisArslan/etstur/assets/122876232/18e47dc8-1660-4c24-9abf-25aa66ac80c5)
+
 -- For Delete operation(DELETE)
 localhost:8082/ets/api/file/{id}
 
